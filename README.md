@@ -53,15 +53,7 @@
 ### ⚡ Stats
 <div align="center">
 
-<!-- Quick glance -->
-<a href="https://github.com/DeemaAbuNimeh?tab=followers">
-  <img src="https://img.shields.io/github/followers/DeemaAbuNimeh?logo=github&style=flat&color=8b5cf6" alt="Followers"/>
-</a>
-<a href="https://github.com/DeemaAbuNimeh?tab=stars">
-  <img src="https://img.shields.io/github/stars/DeemaAbuNimeh?affiliations=OWNER%2CCOLLABORATOR&style=flat&color=8b5cf6" alt="Stars"/>
-</a>
 
-<br/><br/>
 
 <!-- GitHub Stats -->
 <img
