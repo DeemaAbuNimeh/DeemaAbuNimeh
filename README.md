@@ -1,9 +1,5 @@
 <!-- PROFILE README for Deema Abu Nimeh -->
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=DeemaAbuNimeh&label=visitors&color=8b5cf6&style=flat" alt="profile views"/>
-</p>
-
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Baloo+2&size=42&duration=2500&pause=400&color=8B5CF6&center=true&vCenter=true&repeat=false&width=900&lines=Hi+There!+%F0%9F%91%8B;I'm+Deema+Abu+Nimeh" alt="typing intro" />
 </h1>
