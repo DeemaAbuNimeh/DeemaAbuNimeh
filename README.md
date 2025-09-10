@@ -15,9 +15,9 @@
 ---
 
 ### 🌱 Currently
-- Building portfolio projects and sharpening **frontend + backend** skills.
-- Learning and using **Bootstrap, React, Node.js**.
-- Interested in **AI/ML** and building **game-related apps**.
+- Focusing on **Mobile Development** (Android/Kotlin).
+- Interested in **BA (Business Analysis)** and **QA (Quality Assurance)** — writing user stories & acceptance criteria, designing test cases, and tracking bugs.
+
 
 ### 💬 Ask me about
 **Java, Python, PHP, C, HTML/CSS/JS, SQL, MongoDB/Cassandra, OOP, Linux, Git, Agile/Waterfall.**
