@@ -14,7 +14,6 @@
 - Focusing on **Mobile Development** (Android/Kotlin).
 - Interested in **BA (Business Analysis)** and **QA (Quality Assurance)** — writing user stories & acceptance criteria, designing test cases, and tracking bugs.
 
-
 ### 💬 Ask me about
 **Java, Python, PHP, C, HTML/CSS/JS, SQL, MongoDB/Cassandra, OOP, Linux, Git, Agile/Waterfall.**
 
@@ -54,14 +53,52 @@
 ### ⚡ Stats
 <div align="center">
 
+<!-- Quick glance -->
+<a href="https://github.com/DeemaAbuNimeh?tab=followers">
+  <img src="https://img.shields.io/github/followers/DeemaAbuNimeh?logo=github&style=flat&color=8b5cf6" alt="Followers"/>
+</a>
+<a href="https://github.com/DeemaAbuNimeh?tab=stars">
+  <img src="https://img.shields.io/github/stars/DeemaAbuNimeh?affiliations=OWNER%2CCOLLABORATOR&style=flat&color=8b5cf6" alt="Stars"/>
+</a>
+
+<br/><br/>
+
 <!-- GitHub Stats -->
 <img
   src="https://github-readme-stats.vercel.app/api?username=DeemaAbuNimeh&show_icons=true&hide_border=true&title_color=8b5cf6&icon_color=8b5cf6&text_color=333333&bg_color=ffffff"
+  alt="GitHub stats"
 />
+
+<br/>
+
+<!-- Streak -->
+<img
+  src="https://streak-stats.demolab.com?user=DeemaAbuNimeh&hide_border=true&ring=8B5CF6&fire=8B5CF6&currStreakNum=333333&sideNums=333333&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=6b7280&background=FFFFFF"
+  alt="GitHub streak"
+/>
+
+<br/>
 
 <!-- Most Used Languages -->
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeemaAbuNimeh&layout=compact&hide_border=true&title_color=8b5cf6&text_color=333333&bg_color=ffffff"
+  alt="Top languages"
+/>
+
+<br/>
+
+<!-- Activity Graph -->
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=DeemaAbuNimeh&bg_color=ffffff&color=333333&line=8B5CF6&point=8B5CF6&area=true&hide_border=true"
+  alt="Contribution graph"
+/>
+
+<br/>
+
+<!-- Trophies -->
+<img
+  src="https://github-profile-trophy.vercel.app/?username=DeemaAbuNimeh&theme=flat&no-frame=true&no-bg=true&column=6"
+  alt="GitHub trophies"
 />
 
 </div>
