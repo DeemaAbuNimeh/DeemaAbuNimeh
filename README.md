@@ -79,20 +79,6 @@
 
 <br/>
 
-<!-- Activity Graph -->
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=DeemaAbuNimeh&bg_color=ffffff&color=333333&line=8B5CF6&point=8B5CF6&area=true&hide_border=true"
-  alt="Contribution graph"
-/>
-
-<br/>
-
-<!-- Trophies -->
-<img
-  src="https://github-profile-trophy.vercel.app/?username=DeemaAbuNimeh&theme=flat&no-frame=true&no-bg=true&column=6"
-  alt="GitHub trophies"
-/>
-
 </div>
 
 ---
